@@ -101,4 +101,3 @@ function onArrowRight() {
   }
   findNewIndex(index, 1);
 };
-const message = 'Node is amazing!';
